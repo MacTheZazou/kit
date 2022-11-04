@@ -35,6 +35,7 @@
 		justify-content: center;
 		align-items: center;
 		flex: 0.6;
+		background-image: url('favicon.png');
 	}
 
 	h1 {
